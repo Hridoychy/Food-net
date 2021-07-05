@@ -1,0 +1,75 @@
+body{
+font-family: 'Poppins', sans-serif;
+margin: 0;
+}
+
+
+h1{
+    font-size: 50px;
+
+}
+.colour{
+    color: orange;
+}
+.half{
+ width: 50%;
+
+}
+.flexible{
+    display: flex;
+}
+
+ 
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+     padding: 20px 40px;
+     border-radius: 10px;
+     color: white;
+     font-weight: 400;
+     border-radius: 20%;
+}
+.top{
+    padding: 3% 3% 3% 3%;
+    margin: auto;
+}
+.middle{
+        background-image: url(images/shapes/Frame\ 58.jpg);
+        padding-left:5%;
+        padding-right:0%;
+    }
+.middle img{
+    padding-top: 1%;
+    width: 80%;
+}
+.recipies{
+    text-align: center;
+    padding: 10px;
+
+}
+.Experiance{
+
+    width: 500px; 
+    box-shadow: 10px 10px 30px gray ;
+    border-radius: 20px;
+    margin:100px;
+    padding: 20px;
+
+}
+.Experiance .rd{
+width: 400px;
+border-radius: 50px;
+padding: 3%;
+
+}
+footer {
+    text-align: center;
+    color: rgb(218, 10, 10);
+    background-color: rgb(1, 1, 29);
+}
+.flexible-card{
+    display: flex;
+    margin-left: 100px;
+    
+}
